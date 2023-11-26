@@ -23,12 +23,9 @@ t=[3, 1, 0, 45, 8, 9, 7]
 for i in range(7):
 
     Min, R=mini(t)
-    print(Min)
     New_liste.append(Min)
-    # print(R)
     t.pop(R)
-    #t.remove(rg)
-    print(t)
+       
 print(New_liste)
    
     

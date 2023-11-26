@@ -1,0 +1,8 @@
+# Créer une fonction qui prend en paramètre un string et qui la retourne inverser. Par
+# exemple, « nikana » deviendra « anakin ».
+
+def inverse(a):
+    a = "".join(reversed(a))
+    print(a)
+
+inverse("op")
