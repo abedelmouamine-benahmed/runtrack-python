@@ -20,7 +20,7 @@ def my_long_word(nombre,chaine):
     liste=chaine.split()
     print(liste)
     for i in liste:
-        if i!= ",":
+        if i!= ",": 
             liste2.append(i)
     for i in liste2:
         print(i)

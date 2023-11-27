@@ -2,4 +2,6 @@
 
 # Puis retourner la liste dans l’ordre croissant.
 
+print('|'+'-'*2)
+print('j')
 

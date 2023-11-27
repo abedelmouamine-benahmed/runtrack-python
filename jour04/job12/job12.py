@@ -14,7 +14,7 @@ def mini(a):
         if i < Min:
             Min=i
             R=cpt-1
-           # print(rg)
+            
     return Min, R
 # programme
 New_liste=[]
